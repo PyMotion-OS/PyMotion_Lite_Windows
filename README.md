@@ -50,7 +50,9 @@ flowchart LR
 
 ## Quick start
 
-Extract the complete SDK package to a short path, for example `D:\PyMotion_Lite_Windows`.
+Open the [PyMotion Lite Windows SDK repository](https://github.com/PyMotion-OS/PyMotion_Lite_Windows), then select **Code → Download ZIP** to download the SDK.
+
+After downloading, extract the complete SDK package to a short path, for example `D:\PyMotion_Lite_Windows`.
 
 ### 1. Prepare the SDK folder
 
@@ -83,7 +85,7 @@ The installer uses the bundled Python 3.12 runtime, creates an isolated environm
 %LOCALAPPDATA%\PyMotion\LiteSDK\venv-cp312
 ```
 
-It does not modify the system Python installation or require changes to `PATH`. If installation fails, keep the complete error output and do not retry with a separately copied installer.
+It does not modify the system Python installation or require changes to `PATH`.
 
 ### 3. Double-click the SDK workspace launcher
 

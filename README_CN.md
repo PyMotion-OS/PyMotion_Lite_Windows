@@ -50,7 +50,9 @@ flowchart LR
 
 ## 快速开始
 
-建议将 SDK 包完整解压到路径较短的目录，例如 `D:\PyMotion_Lite_Windows`。
+先打开 [PyMotion Lite Windows SDK 仓库](https://github.com/PyMotion-OS/PyMotion_Lite_Windows)，点击 **Code → Download ZIP** 下载 SDK。
+
+下载完成后，将 SDK 包完整解压到路径较短的目录，例如 `D:\PyMotion_Lite_Windows`。
 
 ### 1. 准备 SDK 目录
 
@@ -83,7 +85,7 @@ Installation completed.
 %LOCALAPPDATA%\PyMotion\LiteSDK\venv-cp312
 ```
 
-此过程不会修改系统 Python，也不要求用户配置 `PATH`。如果窗口提示失败，请保留完整错误信息，不要只复制安装脚本到其他目录重试。
+此过程不会修改系统 Python，也不要求用户配置 `PATH`。
 
 ### 3. 双击打开 SDK 工作区
 
